@@ -1,5 +1,5 @@
 server:
-  port: 10087
+  port: 10097
 spring:
   application:
     name: threeyes
