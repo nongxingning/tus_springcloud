@@ -1,9 +1,5 @@
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:10086/eureka/
 server:
-  port: 11018
+  port: 10087
 spring:
   application:
-    name: eurekaclient
+    name: threeyes
